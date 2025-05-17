@@ -32,7 +32,7 @@ PlatformHero leverages several technologies to deliver robust data insights:
    Backend hosting using FastAPI, allowing for real-time data streaming and scalable infrastructure.
 
 ## Getting Started
-1. **Interactive Search**: Visit [PlatformHero.ai](https://www.platformhero.ai) and enter a query to explore connections and insights.  
+1. **Interactive Search**: Visit [PlatformHero.ai](https://search.platformhero.ai) and enter a query to explore connections and insights.  
 2. **Customizable Graphs**: Visualize and expand graph data relationships using the interactive 3D interface.  
 3. **Community Knowledge Sharing**: Share your blog or Microsoft Power Platform text sources, contributing to a growing knowledge base, at [ask@platformhero.ai](mailto:ask@platformhero.ai).
 
